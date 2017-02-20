@@ -16,7 +16,7 @@ char f4[70]="Se que no crees que existo, lo puedo ver ya que estoy cerca de ti";
 char f5[59]="La respuesta te la dare en la noche, mientras duermes.";
 char f6[49]="Se que tendras miedo a lo que contestare";
 
-//
+//no, no quiere escribir algo
 
 void lisa(){
 	int i=1,j,c=0,c2=0;
@@ -139,6 +139,8 @@ void lisa(){
 	printf("\n");	
 	return;
 }
+
+//"me gustas tu, gustas tu, sutuduru johahaeyo" by gfriend
 
 int main(){
 	system("color 70");
