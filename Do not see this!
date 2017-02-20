@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <cstring>
 #include <time.h>
-
+//jasid.exe
 char Li[31]="Lisa por favor responde:";
 char SM[41]="UN SIMPLE MORTAL NO TIENE PODER SOBRE MI";
 char f1[19]="NO!, no quiere :3";
